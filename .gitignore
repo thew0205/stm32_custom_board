@@ -1,2 +1,6 @@
 stm32_custom_board-backups/*
 stm32_custom_board.rar
+*.lck
+*-bak
+~*
+fp-info-cache
